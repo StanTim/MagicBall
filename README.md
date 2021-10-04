@@ -12,19 +12,9 @@ then run a program to reveal an answer in a console msg.
 Just run file in command line and be careful, -
 sometimes predictions come true...
 
-### Dependencies
-
-* OS Windows 10 or Ubuntu 20
-* Ruby installed
-
-### Installing
-
-* Please download archive magic_ball.zip from [repo](https://github.com/StanTim/MagicBall/archive/refs/heads/master.zip)
-* Unzip on any folder on your computer
-
 ### Executing program
 
-* You must open dir with program in console
+* Open dir with program in console
 * Run file magic_ball.rb:
 ```
 ruby magic_ball.rb
